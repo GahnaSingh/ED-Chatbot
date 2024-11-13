@@ -18,7 +18,7 @@ app.config["SQLALCHEMY_DATABASE_URI"] = "sqlite:///chatbot.db"
 db = SQLAlchemy(app)
 
 # Set your OpenAI API key
-openai.api_key = "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"
+openai.api_key = "your-openai-api-key"
 
 # Initialize recognizer, text-to-speech engine, and other variables
 recognizer = sr.Recognizer()
