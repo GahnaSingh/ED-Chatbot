@@ -1,0 +1,9 @@
+Flask
+Flask-SQLAlchemy
+opencv-python-headless
+numpy
+speechrecognition
+pyttsx3
+deepface
+openai
+
